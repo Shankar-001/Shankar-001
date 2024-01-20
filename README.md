@@ -4,18 +4,16 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A Software Developer
 --------------------
 
-I know computer languages like C++, JavaScript and knowledge of Data Structures and Algorithms.. I am currently doing coding in c++ mostly.. I am proficient in both front-end and back-end development(MERN).
+I am currently working as a React JS Developer Intern at Competishun. I know computer languages like C++, JavaScript and knowledge of Data Structures and Algorithms.. I am currently doing coding in c++ mostly.. I am proficient in both front-end and back-end development(MERN).
 
 * 🌍  I'm based in Jehanabad, Bihar
 * ✉️  You can contact me at [praveen01.ugec20@iiitranchi.ac.in](mailto:praveen01.ugec20@iiitranchi.ac.in)
-* 🚀  I'm currently working on [backend](http://github.com/Shankar-001/backend)
+* 🚀  I'm currently working on [infinite-chats](http://github.com/Shankar-001/infinite-chats)
 * 🧠  I'm learning DSA, Typescript, Next.Js
 * 🤝  I'm open to collaborating on Any MERN Project
 
 <a href="https://www.github.com/Shankar-001" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Shankar-001?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a><a href="https://www.x.com/_Ishankar_" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/_Ishankar_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
-/></a>
+src="https://img.shields.io/github/followers/Shankar-001?logo=github&style=for-the-badge&color=a855f7&labelColor=22272e" /></a>
 
 ### Skills
 
@@ -33,8 +31,8 @@ src="https://img.shields.io/twitter/follow/_Ishankar_?logo=twitter&style=for-the
 
 <b>My GitHub Stats</b>
 
-<a href="https://github.com/Shankar-001" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shankar-001&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/Shankar-001"><img src="https://github-readme-stats.vercel.app/api?username=Shankar-001&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=a855f7&bg_color=22272e&hide_border=true&show_icons=true" alt="Shankar-001's GitHub stats" /></a>
 
-<a href="http://www.github.com/Shankar-001"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Shankar-001&stroke=ffffff&background=000000&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Shankar-001"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Shankar-001&stroke=ffffff&background=22272e&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/Shankar-001"><img src="https://github-readme-stats.vercel.app/api?username=Shankar-001&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="Shankar-001's GitHub stats" /></a>
+<a href="https://github.com/Shankar-001" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shankar-001&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=a855f7&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
