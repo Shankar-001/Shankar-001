@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A Software Developer
 --------------------
 
-I am currently working as a React JS Developer Intern at Competishun. I know computer languages like C++, JavaScript and knowledge of Data Structures and Algorithms.. I am currently doing coding in c++ mostly.. I am proficient in both front-end and back-end development(MERN).
+I am currently working as a Sodtware Developer at magicpin. I know computer languages like C++, JavaScript and knowledge of Data Structures and Algorithms.. I am currently doing coding in c++ mostly.. I am proficient in both front-end and back-end development(MERN).
 
 * 🌍  I'm based in Jehanabad, Bihar
 * ✉️  You can contact me at [praveen01.ugec20@iiitranchi.ac.in](mailto:praveen01.ugec20@iiitranchi.ac.in)
